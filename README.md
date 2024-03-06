@@ -21,7 +21,7 @@
 <a href="https://fb.com/golu.babu.54390/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="golu.babu.54390/" height="30" width="40" /></a>
 <a href="https://instagram.com/adityababu_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityababu_7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityababupraja1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityababupraja1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya_babu07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_babu07" height="30" width="40" /></a>
+<a href="https://leetcode.com/Aditya_Babu1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_babu07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityapraj533s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityapraj533s" height="30" width="40" /></a>
 </p>
 
