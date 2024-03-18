@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋, I'm Aditya Babu Prajapati</h1>
 <h3 align="center">A passionate Java Developeer and Front End Web Developeer from India.</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development & App Development**
 
 - 👨‍💻 All of my projects are available at [https://adityaprajapati10.github.io/Myportfolio.github.io/](https://adityaprajapati10.github.io/Myportfolio.github.io/)
 
