@@ -1,6 +1,6 @@
 <h1 align="center">Hello World👋, I'm Aditya Babu Prajapati</h1>
 <h3 align="center">A passionate Java Developeer and Front End Web Developeer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaprajapati10&label=Profile%20views&color=0e75b6&style=flat" alt="adityaprajapati10" /> </p>
 
 - 🌱 I’m currently learning **Web Development & App Development**
