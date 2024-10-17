@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Web Development & App Development**
 
-- 👨‍💻 All of my projects are available at [https://adityaprajapati10.github.io/Myportfolio.github.io/](https://adityaprajapati10.github.io/Myportfolio.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://adityaprajapati10.github.io/Myportfolio.github.io/)
 
 - 💬 Ask me about **Core Java, OOPs Concepts and Problem Solving**
 
 - 📫 How to reach me **adityababuprajapati@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DFGJvWYXr-CD9kcQWTMvpVkuZUf4IIP9/view?usp=sharing](https://drive.google.com/file/d/1DFGJvWYXr-CD9kcQWTMvpVkuZUf4IIP9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DFGJvWYXr-CD9kcQWTMvpVkuZUf4IIP9/view?usp=sharing)
 
 - ⚡ Fun fact **I'm not a programmer; I'm a problem solver.**
 
