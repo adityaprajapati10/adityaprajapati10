@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaprajapati10&label=Profile%20views&color=0e75b6&style=flat" alt="adityaprajapati10" /> </p>
 - 🌱 I’m currently learning **Cloud Technologie(AWS)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adityaprajapati10?tab=repositories](https://github.com/adityaprajapati10?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/adityaprajapati10?tab=repositories)
 
 - 📫 How to reach me **adityababuprajapati@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DFGJvWYXr-CD9kcQWTMvpVkuZUf4IIP9/view?usp=sharing](https://drive.google.com/file/d/1DFGJvWYXr-CD9kcQWTMvpVkuZUf4IIP9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DFGJvWYXr-CD9kcQWTMvpVkuZUf4IIP9/view?usp=sharing)
 
 - ⚡ Fun fact **I'm not a programmer; I'm a problem solver.**
 
