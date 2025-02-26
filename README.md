@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adityababuprajapati@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jLUQOwYJAKK8GpCF96WJCG_ZPj6Jbr6V/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H8KVDWj2aR1dqRQDnGF1eDHd-LmlLXlB/view?usp=sharing)
 
 - ⚡ Fun fact **I'm not a programmer; I'm a problem solver.**
 
