@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **adityababuprajapati@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H8KVDWj2aR1dqRQDnGF1eDHd-LmlLXlB/view?usp=sharing)
-
 - ⚡ Fun fact **I'm not a programmer; I'm a problem solver.**
 
 <h3 align="left">Connect with me:</h3>
